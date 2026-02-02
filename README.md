@@ -12,7 +12,7 @@ Generate obfuscated samples with customizable parameters:
 ```
 python shuffling/generate_from_ner.py --parameter
 ```
-## 2. Evaluation
+## 3. Evaluation
 We introduce two dedicated metrics: Binary Indistinguishability Rate (BIR) and Multi-Candidate Mixing Rate (MCMR).
 
 We can conduct the evaluation through two methods: calling the API and deploying the model locally.
